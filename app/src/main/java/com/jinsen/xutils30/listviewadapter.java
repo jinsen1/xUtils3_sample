@@ -13,8 +13,9 @@ import java.util.List;
 
 /**
  * Created by jinsen-a on 2016/1/5.
- * android studio 测试一�提交
- * 这个是一�adapter
+ * android studio 测试一�提交
+ * 这个是一�adapter
+ * 提交试试
  */
 public class listviewadapter extends BaseAdapter {
 
