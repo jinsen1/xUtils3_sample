@@ -13,6 +13,7 @@ import java.util.List;
 
 /**
  * Created by jinsen-a on 2016/1/5.
+ * android studio 测试一下 提交
  */
 public class listviewadapter extends BaseAdapter {
 
