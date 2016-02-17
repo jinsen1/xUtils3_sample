@@ -13,8 +13,8 @@ import java.util.List;
 
 /**
  * Created by jinsen-a on 2016/1/5.
- * android studio 测试一�提交
- * 这个是一�adapter
+ * android studio 测试提交
+ * 这个是一个adapter
  */
 public class listviewadapter extends BaseAdapter {
 
