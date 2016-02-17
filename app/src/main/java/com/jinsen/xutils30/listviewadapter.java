@@ -13,6 +13,7 @@ import java.util.List;
 
 /**
  * Created by jinsen-a on 2016/1/5.
+ *
  * 这个是一个 adapter
  */
 public class listviewadapter extends BaseAdapter {
