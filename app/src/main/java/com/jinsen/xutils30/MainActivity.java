@@ -15,9 +15,6 @@ import org.xutils.x;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 我就是想测试一下 与AndroidStudio关联
- */
 public class MainActivity extends AppCompatActivity {
 
     @ViewInject(R.id.imageView)
