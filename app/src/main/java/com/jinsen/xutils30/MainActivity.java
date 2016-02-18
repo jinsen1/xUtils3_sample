@@ -16,8 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 我就是想测试与AndroidStudio关联
- * 这样子就关联上了吗？
+ *这是一个测试类
  */
 public class MainActivity extends AppCompatActivity {
 
